@@ -1,4 +1,3 @@
-import re
 s = input()
 c = input()
 l = []
